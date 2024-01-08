@@ -1,4 +1,4 @@
 # Git e GitHub!
  Repositório do curso de Git e GitHub
 
-Linha adicionada diretamente do site
+Material do **Curso de Git e GitHub**, disponivel gratuitamente no canal do *YouTube*.
